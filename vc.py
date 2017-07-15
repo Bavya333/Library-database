@@ -10,7 +10,7 @@ m=[{'Name':'Bavya','ID':3,'Visit count':0},
 
 print("Enter -1 to exit and 5 to enter:")
 
-a=raw_input("hh")
+a=raw_input()
 
 
 while int(a)==5:
